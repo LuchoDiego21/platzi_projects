@@ -1,0 +1,30 @@
+/* LAITUM CSS - LANDING PAGE */
+
+.footer-logo{
+    width: 60%;
+}
+.laitum-container h3 {
+    font-weight: 700;
+}
+.laitum-container h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.laitum-box {
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 
+        -8px -8px 12px rgba(255, 255, 255, 0.5),
+        8px 8px 12px rgba(70, 70, 70, 0.12);
+}
+.laitum-course-box{
+/*     border: 3px #002124 solid;
+    background-color: #006770;
+    border-radius: 10px; */
+    background-color: #006770;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 
+        -8px -8px 12px rgba(255, 255, 255, 0.5),
+        8px 8px 12px rgba(70, 70, 70, 0.12);
+}
